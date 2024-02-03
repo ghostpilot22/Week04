@@ -154,6 +154,7 @@ public class Week04CodingProj {
 	
 	// 13.
 	// This method returns a good guess for whether or not the name of a variable will annoy me. 
+	// I created it because it annoys me how a lot of the variables in this course are given such unnecessarily long names.
 	public static String annoyChecker (String varName)
 	{
 		if(varName.length() > 10) 
